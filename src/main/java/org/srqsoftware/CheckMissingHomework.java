@@ -1,7 +1,3 @@
-/*
- * Copyright (c) ITDatabase  All rights reserved.  http://www.itdatabase.com
- */
-
 package org.srqsoftware;
 
 import java.util.concurrent.TimeUnit;
